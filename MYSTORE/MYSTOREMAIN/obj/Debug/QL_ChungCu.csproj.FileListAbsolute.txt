@@ -1,0 +1,10 @@
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\bin\Debug\QL_ChungCu.exe.config
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\bin\Debug\QL_ChungCu.exe
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\bin\Debug\QL_ChungCu.pdb
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.csprojResolveAssemblyReference.cache
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.Properties.Resources.resources
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.csproj.GenerateResource.Cache
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.exe.licenses
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.exe
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.pdb
+C:\Users\LUONGCHUNG\Desktop\Dev\QL_ChungCu\QL_ChungCu\obj\Debug\QL_ChungCu.Main_menu.resources

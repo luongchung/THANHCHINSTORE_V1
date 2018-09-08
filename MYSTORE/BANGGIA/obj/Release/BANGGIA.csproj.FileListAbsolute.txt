@@ -1,0 +1,204 @@
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\BANGGIA.pdb
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Data.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Utils.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraBars.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraEditors.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraGrid.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraLayout.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Images.v17.2.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.pdb
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Data.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Printing.v17.2.Core.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Utils.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraBars.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraEditors.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraGrid.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraLayout.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Office.v17.2.Core.xml
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csprojAssemblyReference.cache
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.Properties.Resources.resources
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.GenerateResource.cache
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.CoreCompileInputs.cache
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.CopyComplete
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.pdb
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\BANGGIA.dll.config
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\BANGGIA.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.dll.licenses
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.dll
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.dll.config
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\banggia.FrmMain.resources
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\banggia.frmAddHang.resources
+C:\Users\LUONGCHUNG\Documents\MYSTORE\BANGGIA\obj\Release\banggia.frmAddLoaiHang.resources
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csprojAssemblyReference.cache
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.frmAddHang.resources
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.frmAddLoaiHang.resources
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.FrmMain.resources
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.Properties.Resources.resources
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.GenerateResource.cache
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.dll.licenses
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\banggia.pdb
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\banggia.dll.config
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\banggia.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\banggia.pdb
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Data.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Printing.v17.2.Core.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Utils.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraBars.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraEditors.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraGrid.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraLayout.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Office.v17.2.Core.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Images.v17.2.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.pdb
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\HeThong.dll.config
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Data.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Printing.v17.2.Core.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Utils.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraBars.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraEditors.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraGrid.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraLayout.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\DevExpress.Office.v17.2.Core.xml
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\bin\Release\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.CoreCompileInputs.cache
+C:\Users\THANH CHIN PC\Documents\MYSTORE\BANGGIA\obj\Release\BANGGIA.csproj.CopyComplete

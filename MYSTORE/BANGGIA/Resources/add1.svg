@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" id="Слой_1">
+  <g id="Add">
+    <circle cx="16" cy="16" r="14" fill="#039C23" class="Green" />
+    <polygon points="24,14 18,14 18,8 14,8 14,14 8,14 8,18 14,18 14,24 18,24 18,18 24,18  " fill="#FFFFFF" class="White" />
+  </g>
+</svg>

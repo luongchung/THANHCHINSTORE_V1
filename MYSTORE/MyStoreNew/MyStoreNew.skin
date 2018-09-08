@@ -1,0 +1,14 @@
+﻿<SkinItems version="1.0" application="SkinEditor.v2" assembly="" class="" extranamespace="">
+  <Item>
+    <ItemName>My DevExpress Style</ItemName>
+    <TemplateName>DevExpress Style</TemplateName>
+    <SkinMaskColor />
+    <SkinMaskColor2 />
+  </Item>
+  <Item>
+    <ItemName>My Office 2010 Blue</ItemName>
+    <TemplateName>Office 2010 Blue</TemplateName>
+    <SkinMaskColor />
+    <SkinMaskColor2 />
+  </Item>
+</SkinItems>
